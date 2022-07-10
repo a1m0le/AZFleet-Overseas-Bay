@@ -13,5 +13,5 @@ The WORLD folder contatins the latest version of the world. Check the commit mes
 The saves are mostly for Java edition.
 
 # Gallery
-
+## USS Cleveland (CL-55)
 ![Cleveland goes here](Cleveland/Gallery-pic-Cleveland.png?raw=true "USS Cleveland (CL-55)")

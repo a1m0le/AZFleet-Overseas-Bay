@@ -14,4 +14,4 @@ The saves are mostly for Java edition.
 
 # Gallery
 
-![Cleveland goes here](Cleveland/Gallery-pic-Cleveland.pnh?raw=true "USS Cleveland (CL-55)")
+![Cleveland goes here](Cleveland/Gallery-pic-Cleveland.png?raw=true "USS Cleveland (CL-55)")

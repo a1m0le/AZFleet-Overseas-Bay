@@ -1,0 +1,1 @@
+Copy the downloaded installer to root dir of C disk. then use java -jar in powershell.
